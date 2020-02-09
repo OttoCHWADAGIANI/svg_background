@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 100 300">
+<metadata>
+<vectornator:setting key="DisplayWhiteBackground" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="1"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="SnapToPoints" value="1"/>
+<vectornator:setting key="SnapToGrid" value="1"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="ShowGrid" value="1"/>
+<vectornator:setting key="GridSpacing" value="50"/>
+</metadata>
+<defs>
+<linearGradient y1="400" id="LinearGradient" x1="298.144" y2="379.107" x2="749.926" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.951969 0 0 0.587171 -356.613 -132.7)">
+<stop stop-color="#d96bb4" offset="0"/>
+<stop stop-color="#4e3044" offset="1"/>
+</linearGradient>
+</defs>
+<g id="Calque 1" vectornator:layerName="Calque 1">
+<path d="M100+300C-42.7954+241.283-23.5785-6.40439+100.177+6.88264C100.177+110.846+100.093+213.973+100+300Z" opacity="1" fill="url(#LinearGradient)"/>
+</g>
+</svg>
